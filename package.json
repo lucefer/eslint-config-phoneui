@@ -1,0 +1,11 @@
+{
+  "name": "eslint-config-phoneui",
+  "version": "1.0.0",
+  "description": "phone ui 的code rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucefer",
+  "license": "MIT"
+}
